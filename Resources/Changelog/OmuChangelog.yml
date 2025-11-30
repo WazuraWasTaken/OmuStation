@@ -1252,3 +1252,23 @@ Entries:
       message: Removed the reflect from shuttle walls
   id: 149
   time: '2025-11-29T17:35:25.0000000+00:00'
+- author: harryhulse12-alt
+  changes:
+    - type: Add
+      message: Added Distress signaller to sec vend
+  id: 150
+  time: '2025-11-30T06:48:19.0000000+00:00'
+- author: harryhulse12-alt
+  changes:
+    - type: Add
+      message: >-
+        Added departmental comms consoles, now CE can scream tesloose while
+        being vaporised and people will listen!
+  id: 151
+  time: '2025-11-30T06:48:34.0000000+00:00'
+- author: Gab
+  changes:
+    - type: Fix
+      message: The assault belt loadout on BSO is not longer a Senior BSO drip. My bad.
+  id: 152
+  time: '2025-11-30T15:18:02.0000000+00:00'
