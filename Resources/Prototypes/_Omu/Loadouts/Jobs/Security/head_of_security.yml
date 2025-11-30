@@ -14,3 +14,13 @@
   id: HoSParadeUniformFemale
   equipment:
     jumpsuit: ClothingUniformJumpskirtHoSParadeMale
+
+
+#Belt
+- type: loadout
+  id: HosSwordBelt
+  effects:
+  - !type:GroupLoadoutEffect
+    proto: SeniorOfficer
+  equipment:
+    belt: ClothingBeltSheathStunswordFilled

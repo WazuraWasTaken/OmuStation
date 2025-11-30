@@ -31,10 +31,10 @@
   - type: Appearance
 
 # i suck at coding
-  - type: entity
+- type: entity
   id: ClothingBeltSheathStunswordFilled
   parent: ClothingBeltSheathStunsword
-  suffix: filled
+  suffix: Filled
   components:
   - type: ContainerFill
     containers:
