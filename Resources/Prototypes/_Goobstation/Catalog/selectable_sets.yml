@@ -421,6 +421,17 @@
   content:
     - ClothingBeltMilitaryWebbingBSOFilled # Omu - BSO Webbing Vest
 
+- type: selectableSet
+  id: BSOStickSet
+  name: selectable-set-blueshield-club-name
+  description: selectable-set-blueshield-club-description
+  sprite:
+    sprite: _Omu/Objects/Weapons/Melee/bsostick.rsi
+    state: icon
+  content:
+    - Bsostick # Omu change
+
+
 # Blueshield hardsuits
 
 - type: selectableSet

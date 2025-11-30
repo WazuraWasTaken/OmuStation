@@ -96,3 +96,10 @@ selectable-set-ert-light-energy-description =
     infrastructure and recharging stations.
     Includes a CR-9 energy rifle, an EG-4 energy revolver,
     and 3 self-recharging magazines for each.
+
+
+selectable-set-blueshield-club-name = Blueshield Kanabo, the 'Kanabrrr" Set
+selectable-set-blueshield-club-description =
+    Composed from an odd metal, this kanabo saps the warmth of anyone
+    who so much as make contact with it.
+    However wrapped in insulated the bso can safetly handle this stick
