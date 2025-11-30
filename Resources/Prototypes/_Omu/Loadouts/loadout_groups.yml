@@ -84,3 +84,11 @@
   loadouts:
   - BeltAssaultFilled
   - BeltBlueshieldEliteFilled #Starlight Sprite Port
+  - BsoSwordBelt #For the swordies
+
+
+- type: loadoutGroup
+  id: SecurityBelt
+  name: loadout-group-security-belt
+  loadouts:
+  - SecuritySwordBelt

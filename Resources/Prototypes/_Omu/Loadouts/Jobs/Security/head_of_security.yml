@@ -18,7 +18,7 @@
 
 #Belt
 - type: loadout
-  id: HosSwordBelt
+  id: SecuritySwordBelt
   effects:
   - !type:GroupLoadoutEffect
     proto: SeniorOfficer

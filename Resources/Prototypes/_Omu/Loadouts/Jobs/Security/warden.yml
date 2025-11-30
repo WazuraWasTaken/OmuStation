@@ -1,7 +1,7 @@
 
 #Belt
 - type: loadout
-  id: WardenSwordBelt
+  id: SecuritySwordBelt
   effects:
   - !type:GroupLoadoutEffect
     proto: SeniorOfficer
