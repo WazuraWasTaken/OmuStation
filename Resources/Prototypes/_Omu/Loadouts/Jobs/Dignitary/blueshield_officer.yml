@@ -55,8 +55,8 @@
   id: BeltAssaultFilled
   equipment:
     belt: ClothingBeltAssaultFilled
-    
- - type: loadout
+
+- type: loadout
   id: BsoSwordBelt
   effects:
   - !type:GroupLoadoutEffect
