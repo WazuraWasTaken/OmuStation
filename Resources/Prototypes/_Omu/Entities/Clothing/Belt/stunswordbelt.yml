@@ -30,7 +30,8 @@
           - Stunsword
   - type: Appearance
 
-# Filled
+# Belt filled for loadouts
+
 - type: entity
   id: ClothingBeltSheathStunswordFilled
   parent: ClothingBeltSheathStunsword
