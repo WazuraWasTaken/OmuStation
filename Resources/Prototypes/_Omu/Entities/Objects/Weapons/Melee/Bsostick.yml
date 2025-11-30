@@ -1,0 +1,38 @@
+- type: entity
+  name: Kanabrrr
+  parent: [BaseItem, BaseGrandTheftContraband]
+  id: Bsostick
+  description: A strange metal stick, colored blue just for a more prehistorically inclined bso. The metal saps the warmth right out of you, luckily this wrap should keep you warm!
+  components:
+  - type: Sprite
+    sprite: _Omu/Objects/Weapons/Melee/bsostick.rsi
+    state: base
+  - type: Clothing
+    quickEquip: true
+    sprite: _Omu/Objects/Weapons/Melee/bsostick.rsi
+    slots:
+    - Back
+    - suitStorage
+  - type: MeleeWeapon
+    attackRate: 1
+    animationRotation: -120
+    wideAnimationRotation: -120
+    damage:
+      types:
+        Blunt: 20
+    soundHit:
+      collection: MetalThud
+  - type: Wieldable
+  - type: IncreaseDamageOnWield
+    damage:
+      types:
+        Blunt: 10
+        Structural: 30
+  - type: Item
+    size: Huge
+    storedRotation: 45
+    speedModifier: 1.50
+  - type: UseDelay
+    delay: 0.25
+  - type: ChangeTemperatureOnHit
+    heat: -100000 
