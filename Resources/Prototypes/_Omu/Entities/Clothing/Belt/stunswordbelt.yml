@@ -30,7 +30,7 @@
           - Stunsword
   - type: Appearance
 
-# i suck at coding
+# Filled
 - type: entity
   id: ClothingBeltSheathStunswordFilled
   parent: ClothingBeltSheathStunsword
