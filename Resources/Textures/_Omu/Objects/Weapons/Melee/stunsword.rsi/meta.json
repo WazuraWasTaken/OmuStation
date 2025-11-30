@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "license": "WHAT ARE THESE FOR",
+  "copyright": "WHAT ARE THESE FOR",
+  "size": {
+      "x": 32,
+      "y": 32
+  },
+  "states": [
+        {
+            "name": "icon"
+        },
+        {
+            "name": "shock-icon"
+        },
+        {
+            "name": "stun-icon"
+        },
+   	{
+      "name": "off-inhand-right",
+      "directions": 4
+ 	},
+   	{
+      "name": "shock-inhand-right",
+      "directions": 4
+   	},    
+	{
+      "name": "stun-inhand-right",
+      "directions": 4
+  	},
+   	{
+      "name": "off-inhand-left",
+      "directions": 4
+ 	},
+   	{
+      "name": "shock-inhand-left",
+      "directions": 4
+   	},    
+	{
+      "name": "stun-inhand-left",
+      "directions": 4
+  	}
+  ]
+}
