@@ -1291,3 +1291,15 @@ Entries:
       message: Disablers do ion damage now, heal IPCs with cables
   id: 154
   time: '2025-12-02T17:38:23.0000000+00:00'
+- author: Richard Blonski
+  changes:
+    - type: Remove
+      message: Removed CQC Neck-snapping
+  id: 155
+  time: '2025-12-04T21:12:41.0000000+00:00'
+- author: Richard Blonski
+  changes:
+    - type: Add
+      message: Goob Upstream from 23 Nov till 3 Dec (Read In-game Changelog :fire:)
+  id: 156
+  time: '2025-12-05T17:02:34.0000000+00:00'
